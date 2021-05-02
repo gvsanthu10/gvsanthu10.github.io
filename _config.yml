@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Dr. Santhosh Kumar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  An aspring Data scientist in a radiology trained doctor. I will be using this website to show my work.
   <br><br>
-  Second description 
+  This website contains my project details and blog posts.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/skgv1024/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
