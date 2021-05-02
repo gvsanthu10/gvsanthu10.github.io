@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning projects
 
 [Fracture detection with deep learning](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images/fracture.jpg?raw=true"/>
 
 ---
 <!---
@@ -21,19 +21,19 @@ remove comments later
 -->
 ---
 
-### Category Name 2
+### Source code
 
-- [Project 1 Title](http://example.com/)
+- [Fracture detection with deep learning](https://github.com/gvsanthu10/fastai_fracture)
+- <!---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+-->
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
