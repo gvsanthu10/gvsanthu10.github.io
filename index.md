@@ -5,7 +5,7 @@
 ### Deep Learning projects
 
 [Fracture detection with deep learning](/sample_page)
-<img src="images/images/fracture.jpg?raw=true"/>
+<img src="images/fracture.jpg?raw=true"/>
 
 ---
 <!---
