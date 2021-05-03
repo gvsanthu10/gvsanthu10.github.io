@@ -1,12 +1,12 @@
 
-# Project blig
+# Project blog
 ## _Fracture detection with deep learning_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-After years of learning to program and acquiring new technical skills, I finally made it into this. My first blog showing my portfolio.
-I started the machine learning journey unconventionally. I had to learn to program, refresh my mathematics and statistics. I enrolled and completed many online courses. Combining all these, this final website is shaping to reflect my skills and ongoing projects. 
+After years of learning to program and acquiring new technical skills, I finally pursued this. My first blog showing my portfolio.
+I started the machine learning journey unconventionally. I had to learn to program, refresh my mathematics and statistics. I enrolled on to and completed many online courses. Combining all these, which has enabled me produce this final website and to reflect my skills and ongoing projects. 
 ## Basics first
 Some say machine learning is glorified statistics and I do agree. Machine learning concepts were in practice for a long time and used in academics. Deep learning is a part of machine learning where we use the artificial neuronal network to come to the desired outcome.
 I know you find these explanations in thousands of online resources and website, but as with everyone, I will explain this in short.
@@ -51,6 +51,7 @@ I used bing search API to collect "Normal pelvis X-ray AP view" and "Fracture ne
 It is called data augmentation. 
 Even if we have a small number of images, we can increase the number by tilting, zooming and wrapping the images so that we get even more images. Machines do not even recognize an image if it is rotated for 1 degree, because the pixel gets rearranged. Data augmentation answers both increasing the available images to train and also make the model recognize tilted or wrapped images.
 ![](https://raw.githubusercontent.com/gvsanthu10/gvsanthu10.github.io/master/fracture/download%20(1).png)
+> A single image is made into many by zooming, wrapping and changing lighting
 
 ## Final performance
 
