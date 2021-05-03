@@ -25,15 +25,5 @@ remove comments later
 
 - [Fracture detection with deep learning](https://github.com/gvsanthu10/fastai_fracture)
 - <!---
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
--->
+- [Project 2 Title](http://example.com/) -->
 ---
-
-
-
-
----
-
