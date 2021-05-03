@@ -24,6 +24,5 @@ remove comments later
 ### Source code
 
 - [Fracture detection with deep learning](https://github.com/gvsanthu10/fastai_fracture)
-<!---
-- [Project 2 Title](http://example.com/) -->
+- [Coming up next](https://)
 ---
