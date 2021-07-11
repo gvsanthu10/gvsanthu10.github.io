@@ -8,7 +8,7 @@
 <img src="images/fracture.jpg?raw=true"/>
 
 [Hepatocellular carinoma survival prediction](/hcc_pred)
-<img src="images/hcc.jpg?raw=true"/>
+<img src="images/hcc.PNG?raw=true"/>
 
 ---
 <!---
