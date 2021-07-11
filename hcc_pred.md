@@ -5,7 +5,9 @@
 
 
 Please find the detailed description and end to end machine learning in this nodebook
-https://deepnote.com/@dyslexic-dogo/HCC-survival-SHa4tLz8QWmesUbBZZ4yug
+
+[Online notebook](https://deepnote.com/@dyslexic-dogo/HCC-survival-SHa4tLz8QWmesUbBZZ4yug)
+
 
 The link to the live website 
-https://hccprediction.herokuapp.com/
+[Website](https://hccprediction.herokuapp.com/)
