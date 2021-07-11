@@ -1,7 +1,7 @@
 # End to end project
 ## _HCC survival with machine learning_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
 
 
 Please find the detailed description and end to end machine learning in this nodebook
