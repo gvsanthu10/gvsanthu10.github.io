@@ -7,6 +7,9 @@
 [Fracture detection with deep learning](/fracture)
 <img src="images/fracture.jpg?raw=true"/>
 
+[Hepatocellular carinoma survival prediction](/hcc_pred)
+<img src="images/hcc.jpg?raw=true"/>
+
 ---
 <!---
 remove comments later
@@ -24,7 +27,7 @@ remove comments later
 ### Source code
 
 - [Fracture detection with deep learning](https://github.com/gvsanthu10/fastai_fracture)
-- [coming up next](https://github.com/gvsanthu10/fastai_fracture)
+- [HCC survival prediction](https://deepnote.com/@dyslexic-dogo/HCC-survival-SHa4tLz8QWmesUbBZZ4yug)
 
 ---
 
