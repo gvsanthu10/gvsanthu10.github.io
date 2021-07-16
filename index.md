@@ -2,7 +2,10 @@
 
 ---
 
-### Deep Learning projects
+### My machine learning projects
+
+[Ovarian tumor prediction](/ovary)
+<img src="images/ovary.PNG?raw=true"/>
 
 [Fracture detection with deep learning](/fracture)
 <img src="images/fracture.jpg?raw=true"/>
@@ -26,6 +29,7 @@ remove comments later
 
 ### Source code
 
+- [Ovarian tumor prediction](https://github.com/gvsanthu10/tumor)
 - [Fracture detection with deep learning](https://github.com/gvsanthu10/fastai_fracture)
 - [HCC survival prediction](https://deepnote.com/@dyslexic-dogo/HCC-survival-SHa4tLz8QWmesUbBZZ4yug)
 
