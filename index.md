@@ -13,8 +13,9 @@
 [Fracture detection with deep learning](/fracture)
 <img src="images/fracture.jpg?raw=true"/>
 
-[Hepatocellular carinoma survival prediction](/hcc_pred)
+[Hepatocellular carinoma survival prediction](https://deepnote.com/@dyslexic-dogo/HCC-survival-SHa4tLz8QWmesUbBZZ4yug)
 <img src="images/hcc.PNG?raw=true"/>
+[Live website](https://hccprediction.herokuapp.com/)
 
 ---
 <!---
