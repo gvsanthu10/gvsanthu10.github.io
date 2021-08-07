@@ -4,7 +4,7 @@
 
 ### My machine learning projects
 
-[Pneumonia image classification](/pneumonia)
+[Pneumonia image classification](https://www.kaggle.com/dyslexicdogo/image-recognition)
 <img src="images/pneumonia.PNG?raw=true"/>
 
 [Ovarian tumor prediction](/ovary)
