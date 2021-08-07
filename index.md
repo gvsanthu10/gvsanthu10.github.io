@@ -4,6 +4,9 @@
 
 ### My machine learning projects
 
+[Pneumonia image classification](/ovary)
+<img src="images/pneumonia.PNG?raw=true"/>
+
 [Ovarian tumor prediction](/ovary)
 <img src="images/ovary.PNG?raw=true"/>
 
