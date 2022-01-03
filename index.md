@@ -4,6 +4,9 @@
 
 ### My machine learning projects
 
+[Bayesian predictions](https://tumorprediction.herokuapp.com/)
+<img src="images/prediction.PNG?raw=true"/>
+
 [Pneumonia image classification](https://www.kaggle.com/dyslexicdogo/image-recognition)
 <img src="images/pneumonia.PNG?raw=true"/>
 
