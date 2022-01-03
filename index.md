@@ -2,7 +2,7 @@
 
 ---
 
-### My machine learning projects
+### My Data science and machine learning projects
 
 [Bayesian predictions](https://tumorprediction.herokuapp.com/)
 <img src="images/prediction.png?raw=true"/>
